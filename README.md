@@ -1,7 +1,7 @@
 # Count 0000-9999 with IC 79HC595
 
 
-Để truy cập file code, chọn double click theo thứ tự:
+Để truy cập file code, chọn click theo thứ tự:
   
       Dự án muốn truy cập (VD: Count 0000-9999 with IC 79HC595)
       
