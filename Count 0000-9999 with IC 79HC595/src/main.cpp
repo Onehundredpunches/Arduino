@@ -52,7 +52,7 @@ void loop() {
     start_time = millis();
   }
 
-  for ( int num = 0; num <1000; num++)
+  for ( int num = 0; num <10000; num++)
   {
     for (int i = 0; i < 45; i++)
     {
